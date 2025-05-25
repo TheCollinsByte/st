@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+st
+
+# Configuration files
+config.h
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local history
+.history/
+
+# Build directory
+build/
